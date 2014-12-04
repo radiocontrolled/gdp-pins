@@ -1,0 +1,187 @@
+/* begin CSS reset 
+   http://meyerweb.com/eric/tools/css/reset/ 
+   v2.0 | 20110126
+   License: none (public domain)
+*/
+
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed, 
+figure, figcaption, footer, header, hgroup, 
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+}
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure, 
+footer, header, hgroup, menu, nav, section {
+	display: block;
+}
+body {
+	line-height: 1;
+}
+ol, ul {
+	list-style: none;
+}
+blockquote, q {
+	quotes: none;
+}
+blockquote:before, blockquote:after,
+q:before, q:after {
+	content: '';
+	content: none;
+}
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+
+/* end CSS reset 
+ * begin Alison Benjamin style
+ * */
+
+html,body{
+	text-align: center;
+	padding: 1em;
+	color: #484848;
+	font-size: 1em;
+	/* background: #eaeaea;*/
+}
+
+
+
+h1, caption{
+	font-size: 200%;
+	text-align: center;
+	font-weight: bold;
+}
+
+svg{
+	padding-top: 1em;
+	margin-top: 1em;
+	border: 2px solid #eaeaea;
+	border-radius: 3px;
+}
+
+.country {
+  fill: #005689;
+  stroke: #fff;
+  stroke-width: 0.2px;
+  transition: all 0.3s;
+}
+/*
+.country:hover {
+  fill:#4bc6df;
+  stroke-width: 1px;
+}*/
+/* pins */
+circle{
+	fill: #4bc6df;
+}
+
+
+.displayNone{
+	display: none;
+}
+
+.display{
+	display: block;
+}
+
+#tooltip{
+	position: absolute;
+ 	pointer-events: none;
+ 	background:#484848;
+ 	color: #fff;
+ 	border-radius: 5px;
+	padding: .5em 1em;
+	font-size: 75%;
+}
+
+.hidden{
+	display: none;
+}
+
+.gdp-table{
+	width: 50%;
+	margin: 0 auto;	
+}
+
+/* GDP table styling borrowed from Twitter Bootstrap */
+
+.table {
+    margin-bottom: 20px;
+    margin-top: 2em;
+    width: 100%;
+	text-align: left;
+}
+table {
+    background-color: transparent;
+    max-width: 100%;
+}
+table {
+    border-collapse: collapse;
+    border-spacing: 0;
+}
+
+caption, thead {
+    font-weight: bold;
+}
+.table > caption + thead > tr:first-child > th, .table > colgroup + thead > tr:first-child > th, .table > thead:first-child > tr:first-child > th, .table > caption + thead > tr:first-child > td, .table > colgroup + thead > tr:first-child > td, .table > thead:first-child > tr:first-child > td {
+    border-top: 0 none;
+}
+.table > thead > tr > th, .table > tbody > tr > th, .table > tfoot > tr > th, .table > thead > tr > td, .table > tbody > tr > td, .table > tfoot > tr > td {
+    line-height: 1.42857;
+    padding: 8px;
+    vertical-align: top;
+}
+td, th {
+    padding: 0;
+}
+.table-striped > tbody > tr:nth-child(2n+1) > td, .table-striped > tbody > tr:nth-child(2n+1) > th {
+    background-color: #eaeaea;
+}
+.table > thead > tr > th, .table > tbody > tr > th, .table > tfoot > tr > th, .table > thead > tr > td, .table > tbody > tr > td, .table > tfoot > tr > td {
+  
+    line-height: 1.42857;
+    padding: 8px;
+    vertical-align: top;
+}
+td, th {
+    padding: 0;
+}
+
+/* media queries */
+@media (max-width: 1000px) {
+	h1{
+		font-size: 2em;
+	}
+	caption{
+		font-size: 1.5em;
+	}	
+}
+
+@media (max-width: 400px) {
+	table{
+		font-size: 80%;
+	}
+	h1,caption{
+		
+	}
+	.table > thead > tr > th, .table > tbody > tr > th, .table > tfoot > tr > th, .table > thead > tr > td, .table > tbody > tr > td, .table > tfoot > tr > td{
+		padding: 5px;
+	}
+
+}

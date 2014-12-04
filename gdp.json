@@ -1,0 +1,1598 @@
+[
+  {
+    "Country":"US",
+    "Ranking":1,
+    "Country name":"United States",
+    "GDP":"16,800,000",
+    "Notes":""
+  },
+  {
+    "Country":"CN",
+    "Ranking":2,
+    "Country name":"China",
+    "GDP":"9,240,270",
+    "Notes":""
+  },
+  {
+    "Country":"JP",
+    "Ranking":3,
+    "Country name":"Japan",
+    "GDP":"4,901,530",
+    "Notes":""
+  },
+  {
+    "Country":"DE",
+    "Ranking":4,
+    "Country name":"Germany",
+    "GDP":"3,634,823",
+    "Notes":""
+  },
+  {
+    "Country":"FR",
+    "Ranking":5,
+    "Country name":"France",
+    "GDP":"2,734,949",
+    "Notes":""
+  },
+  {
+    "Country":"GB",
+    "Ranking":6,
+    "Country name":"United Kingdom",
+    "GDP":"2,522,261",
+    "Notes":""
+  },
+  {
+    "Country":"BR",
+    "Ranking":7,
+    "Country name":"Brazil",
+    "GDP":"2,245,673",
+    "Notes":""
+  },
+  {
+    "Country":"RU",
+    "Ranking":8,
+    "Country name":"Russia",
+    "GDP":"2,096,777",
+    "Notes":""
+  },
+  {
+    "Country":"IT",
+    "Ranking":9,
+    "Country name":"Italy",
+    "GDP":"2,071,307",
+    "Notes":""
+  },
+  {
+    "Country":"IN",
+    "Ranking":10,
+    "Country name":"India",
+    "GDP":"1,876,797",
+    "Notes":""
+  },
+  {
+    "Country":"CA",
+    "Ranking":11,
+    "Country name":"Canada",
+    "GDP":"1,825,096",
+    "Notes":""
+  },
+  {
+    "Country":"AU",
+    "Ranking":12,
+    "Country name":"Australia",
+    "GDP":"1,560,597",
+    "Notes":""
+  },
+  {
+    "Country":"ES",
+    "Ranking":13,
+    "Country name":"Spain",
+    "GDP":"1,358,263",
+    "Notes":""
+  },
+  {
+    "Country":"KR",
+    "Ranking":14,
+    "Country name":"Korea, Republic of",
+    "GDP":"1,304,554",
+    "Notes":""
+  },
+  {
+    "Country":"MX",
+    "Ranking":15,
+    "Country name":"Mexico",
+    "GDP":"1,260,915",
+    "Notes":""
+  },
+  {
+    "Country":"ID",
+    "Ranking":16,
+    "Country name":"Indonesia",
+    "GDP":"868,346",
+    "Notes":""
+  },
+  {
+    "Country":"TR",
+    "Ranking":17,
+    "Country name":"Turkey",
+    "GDP":"820,207",
+    "Notes":""
+  },
+  {
+    "Country":"NL",
+    "Ranking":18,
+    "Country name":"Netherlands",
+    "GDP":"800,173",
+    "Notes":""
+  },
+  {
+    "Country":"SA",
+    "Ranking":19,
+    "Country name":"Saudi Arabia",
+    "GDP":"745,273",
+    "Notes":""
+  },
+  {
+    "Country":"CH",
+    "Ranking":20,
+    "Country name":"Switzerland",
+    "GDP":"650,782",
+    "Notes":""
+  },
+  {
+    "Country":"AR",
+    "Ranking":21,
+    "Country name":"Argentina",
+    "GDP":"611,755",
+    "Notes":""
+  },
+  {
+    "Country":"SE",
+    "Ranking":22,
+    "Country name":"Sweden",
+    "GDP":"557,938",
+    "Notes":""
+  },
+  {
+    "Country":"NG",
+    "Ranking":23,
+    "Country name":"Nigeria",
+    "GDP":"522,638",
+    "Notes":""
+  },
+  {
+    "Country":"PL",
+    "Ranking":24,
+    "Country name":"Poland",
+    "GDP":"517,543",
+    "Notes":""
+  },
+  {
+    "Country":"NO",
+    "Ranking":25,
+    "Country name":"Norway",
+    "GDP":"512,580",
+    "Notes":""
+  },
+  {
+    "Country":"BE",
+    "Ranking":26,
+    "Country name":"Belgium",
+    "GDP":"508,116",
+    "Notes":""
+  },
+  {
+    "Country":"VE",
+    "Ranking":27,
+    "Country name":"Venezuela, Bolivarian Republic of",
+    "GDP":"438,284",
+    "Notes":""
+  },
+  {
+    "Country":"AT",
+    "Ranking":28,
+    "Country name":"Austria",
+    "GDP":"415,844",
+    "Notes":""
+  },
+  {
+    "Country":"TH",
+    "Ranking":29,
+    "Country name":"Thailand",
+    "GDP":"387,252",
+    "Notes":""
+  },
+  {
+    "Country":"AE",
+    "Ranking":30,
+    "Country name":"United Arab Emirates",
+    "GDP":"383,799",
+    "Notes":""
+  },
+  {
+    "Country":"CO",
+    "Ranking":31,
+    "Country name":"Colombia",
+    "GDP":"378,148",
+    "Notes":""
+  },
+  {
+    "Country":"IR",
+    "Ranking":32,
+    "Country name":"Iran, Islamic Republic of",
+    "GDP":"368,904",
+    "Notes":""
+  },
+  {
+    "Country":"ZA",
+    "Ranking":33,
+    "Country name":"South Africa",
+    "GDP":"350,630",
+    "Notes":""
+  },
+  {
+    "Country":"DK",
+    "Ranking":34,
+    "Country name":"Denmark",
+    "GDP":"330,814",
+    "Notes":""
+  },
+  {
+    "Country":"MY",
+    "Ranking":35,
+    "Country name":"Malaysia",
+    "GDP":"312,435",
+    "Notes":""
+  },
+  {
+    "Country":"SG",
+    "Ranking":36,
+    "Country name":"Singapore",
+    "GDP":"297,941",
+    "Notes":""
+  },
+  {
+    "Country":"IL",
+    "Ranking":37,
+    "Country name":"Israel",
+    "GDP":"291,357",
+    "Notes":""
+  },
+  {
+    "Country":"CL",
+    "Ranking":38,
+    "Country name":"Chile",
+    "GDP":"277,199",
+    "Notes":""
+  },
+  {
+    "Country":"HK",
+    "Ranking":39,
+    "Country name":"Hong Kong",
+    "GDP":"274,013",
+    "Notes":""
+  },
+  {
+    "Country":"PH",
+    "Ranking":40,
+    "Country name":"Philippines",
+    "GDP":"272,017",
+    "Notes":""
+  },
+  {
+    "Country":"EG",
+    "Ranking":41,
+    "Country name":"Egypt",
+    "GDP":"271,973",
+    "Notes":""
+  },
+  {
+    "Country":"FI",
+    "Ranking":42,
+    "Country name":"Finland",
+    "GDP":"256,842",
+    "Notes":""
+  },
+  {
+    "Country":"GR",
+    "Ranking":43,
+    "Country name":"Greece",
+    "GDP":"241,721",
+    "Notes":""
+  },
+  {
+    "Country":"PK",
+    "Ranking":44,
+    "Country name":"Pakistan",
+    "GDP":"236,625",
+    "Notes":""
+  },
+  {
+    "Country":"KZ",
+    "Ranking":45,
+    "Country name":"Kazakhstan",
+    "GDP":"224,415",
+    "Notes":""
+  },
+  {
+    "Country":"IQ",
+    "Ranking":46,
+    "Country name":"Iraq",
+    "GDP":"222,879",
+    "Notes":""
+  },
+  {
+    "Country":"PT",
+    "Ranking":47,
+    "Country name":"Portugal",
+    "GDP":"219,962",
+    "Notes":""
+  },
+  {
+    "Country":"IE",
+    "Ranking":48,
+    "Country name":"Ireland",
+    "GDP":"217,816",
+    "Notes":""
+  },
+  {
+    "Country":"DZ",
+    "Ranking":49,
+    "Country name":"Algeria",
+    "GDP":"210,183",
+    "Notes":""
+  },
+  {
+    "Country":"QA",
+    "Ranking":50,
+    "Country name":"Qatar",
+    "GDP":"202,450",
+    "Notes":""
+  },
+  {
+    "Country":"PE",
+    "Ranking":51,
+    "Country name":"Peru",
+    "GDP":"202,296",
+    "Notes":""
+  },
+  {
+    "Country":"CZ",
+    "Ranking":52,
+    "Country name":"Czech Republic",
+    "GDP":"198,450",
+    "Notes":""
+  },
+  {
+    "Country":"RO",
+    "Ranking":53,
+    "Country name":"Romania",
+    "GDP":"189,638",
+    "Notes":""
+  },
+  {
+    "Country":"KW",
+    "Ranking":54,
+    "Country name":"Kuwait",
+    "GDP":"183,219",
+    "Notes":""
+  },
+  {
+    "Country":"NZ",
+    "Ranking":55,
+    "Country name":"New Zealand",
+    "GDP":"182,594",
+    "Notes":""
+  },
+  {
+    "Country":"UKR",
+    "Ranking":56,
+    "Country name":"Ukraine",
+    "GDP":"177,431",
+    "Notes":""
+  },
+  {
+    "Country":"VN",
+    "Ranking":57,
+    "Country name":"Vietnam",
+    "GDP":"171,392",
+    "Notes":""
+  },
+  {
+    "Country":"BD",
+    "Ranking":58,
+    "Country name":"Bangladesh",
+    "GDP":"129,857",
+    "Notes":""
+  },
+  {
+    "Country":"HU",
+    "Ranking":59,
+    "Country name":"Hungary",
+    "GDP":"124,600",
+    "Notes":""
+  },
+  {
+    "Country":"AO",
+    "Ranking":60,
+    "Country name":"Angola",
+    "GDP":"121,704",
+    "Notes":""
+  },
+  {
+    "Country":"MA",
+    "Ranking":61,
+    "Country name":"Morocco",
+    "GDP":"104,374",
+    "Notes":"a"
+  },
+  {
+    "Country":"PR",
+    "Ranking":62,
+    "Country name":"Puerto Rico",
+    "GDP":"101,496",
+    "Notes":""
+  },
+  {
+    "Country":"SK",
+    "Ranking":63,
+    "Country name":"Slovakia",
+    "GDP":"91,348",
+    "Notes":""
+  },
+  {
+    "Country":"EC",
+    "Ranking":64,
+    "Country name":"Ecuador",
+    "GDP":"90,023",
+    "Notes":""
+  },
+  {
+    "Country":"OM",
+    "Ranking":65,
+    "Country name":"Oman",
+    "GDP":"80,570",
+    "Notes":""
+  },
+  {
+    "Country":"LY",
+    "Ranking":66,
+    "Country name":"Libya",
+    "GDP":"75,456",
+    "Notes":""
+  },
+  {
+    "Country":"AZ",
+    "Ranking":67,
+    "Country name":"Azerbaijan",
+    "GDP":"73,560",
+    "Notes":""
+  },
+  {
+    "Country":"BY",
+    "Ranking":68,
+    "Country name":"Belarus",
+    "GDP":"71,710",
+    "Notes":""
+  },
+  {
+    "Country":"CU",
+    "Ranking":69,
+    "Country name":"Cuba",
+    "GDP":"68,234",
+    "Notes":""
+  },
+  {
+    "Country":"LK",
+    "Ranking":70,
+    "Country name":"Sri Lanka",
+    "GDP":"67,182",
+    "Notes":""
+  },
+  {
+    "Country":"SD",
+    "Ranking":71,
+    "Country name":"Sudan",
+    "GDP":"66,548",
+    "Notes":"b"
+  },
+  {
+    "Country":"DO",
+    "Ranking":72,
+    "Country name":"Dominican Republic",
+    "GDP":"60,614",
+    "Notes":""
+  },
+  {
+    "Country":"LU",
+    "Ranking":73,
+    "Country name":"Luxembourg",
+    "GDP":"60,383",
+    "Notes":""
+  },
+  {
+    "Country":"HR",
+    "Ranking":74,
+    "Country name":"Croatia",
+    "GDP":"57,539",
+    "Notes":""
+  },
+  {
+    "Country":"UZ",
+    "Ranking":75,
+    "Country name":"Uzbekistan",
+    "GDP":"56,796",
+    "Notes":""
+  },
+  {
+    "Country":"UY",
+    "Ranking":76,
+    "Country name":"Uruguay",
+    "GDP":"55,708",
+    "Notes":""
+  },
+  {
+    "Country":"GT",
+    "Ranking":77,
+    "Country name":"Guatemala",
+    "GDP":"53,797",
+    "Notes":""
+  },
+  {
+    "Country":"BG",
+    "Ranking":78,
+    "Country name":"Bulgaria",
+    "GDP":"53,010",
+    "Notes":""
+  },
+  {
+    "Country":"MO",
+    "Ranking":79,
+    "Country name":"Macao",
+    "GDP":"51,753",
+    "Notes":""
+  },
+  {
+    "Country":"CR",
+    "Ranking":80,
+    "Country name":"Costa Rica",
+    "GDP":"49,621",
+    "Notes":""
+  },
+  {
+    "Country":"GH",
+    "Ranking":81,
+    "Country name":"Ghana",
+    "GDP":"47,929",
+    "Notes":""
+  },
+  {
+    "Country":"TN",
+    "Ranking":82,
+    "Country name":"Tunisia",
+    "GDP":"47,129",
+    "Notes":""
+  },
+  {
+    "Country":"ET",
+    "Ranking":83,
+    "Country name":"Ethiopia",
+    "GDP":"46,869",
+    "Notes":""
+  },
+  {
+    "Country":"SI",
+    "Ranking":84,
+    "Country name":"Slovenia",
+    "GDP":"45,378",
+    "Notes":""
+  },
+  {
+    "Country":"LB",
+    "Ranking":85,
+    "Country name":"Lebanon",
+    "GDP":"44,352",
+    "Notes":""
+  },
+  {
+    "Country":"KE",
+    "Ranking":86,
+    "Country name":"Kenya",
+    "GDP":"44,101",
+    "Notes":""
+  },
+  {
+    "Country":"PA",
+    "Ranking":87,
+    "Country name":"Panama",
+    "GDP":"42,648",
+    "Notes":""
+  },
+  {
+    "Country":"RS",
+    "Ranking":88,
+    "Country name":"Serbia",
+    "GDP":"42,521",
+    "Notes":""
+  },
+  {
+    "Country":"LT",
+    "Ranking":89,
+    "Country name":"Lithuania",
+    "GDP":"42,344",
+    "Notes":""
+  },
+  {
+    "Country":"TM",
+    "Ranking":90,
+    "Country name":"Turkmenistan",
+    "GDP":"41,851",
+    "Notes":""
+  },
+  {
+    "Country":"YE",
+    "Ranking":91,
+    "Country name":"Yemen, Rep.",
+    "GDP":"35,955",
+    "Notes":""
+  },
+  {
+    "Country":"JO",
+    "Ranking":92,
+    "Country name":"Jordan",
+    "GDP":"33,678",
+    "Notes":""
+  },
+  {
+    "Country":"TZ",
+    "Ranking":93,
+    "Country name":"Tanzania",
+    "GDP":"33,225",
+    "Notes":"c"
+  },
+  {
+    "Country":"BH",
+    "Ranking":94,
+    "Country name":"Bahrain",
+    "GDP":"32,788",
+    "Notes":""
+  },
+  {
+    "Country":"CIV",
+    "Ranking":95,
+    "Country name":"Côte d'Ivoire",
+    "GDP":"30,905",
+    "Notes":""
+  },
+  {
+    "Country":"CD",
+    "Ranking":96,
+    "Country name":"Congo, the Democratic Republic of the",
+    "GDP":"30,629",
+    "Notes":""
+  },
+  {
+    "Country":"BO",
+    "Ranking":97,
+    "Country name":"Bolivia",
+    "GDP":"30,601",
+    "Notes":""
+  },
+  {
+    "Country":"PY",
+    "Ranking":98,
+    "Country name":"Paraguay",
+    "GDP":"29,949",
+    "Notes":""
+  },
+  {
+    "Country":"CM",
+    "Ranking":99,
+    "Country name":"Cameroon",
+    "GDP":"29,275",
+    "Notes":""
+  },
+  {
+    "Country":"LV",
+    "Ranking":100,
+    "Country name":"Latvia",
+    "GDP":"28,373",
+    "Notes":""
+  },
+  {
+    "Country":"TT",
+    "Ranking":101,
+    "Country name":"Trinidad and Tobago",
+    "GDP":"24,641",
+    "Notes":""
+  },
+  {
+    "Country":"EE",
+    "Ranking":102,
+    "Country name":"Estonia",
+    "GDP":"24,477",
+    "Notes":""
+  },
+  {
+    "Country":"SV",
+    "Ranking":103,
+    "Country name":"El Salvador",
+    "GDP":"24,259",
+    "Notes":""
+  },
+  {
+    "Country":"CY",
+    "Ranking":104,
+    "Country name":"Cyprus",
+    "GDP":"22,767",
+    "Notes":"d"
+  },
+  {
+    "Country":"ZM",
+    "Ranking":105,
+    "Country name":"Zambia",
+    "GDP":"22,384",
+    "Notes":""
+  },
+  {
+    "Country":"UG",
+    "Ranking":106,
+    "Country name":"Uganda",
+    "GDP":"21,483",
+    "Notes":""
+  },
+  {
+    "Country":"AF",
+    "Ranking":107,
+    "Country name":"Afghanistan",
+    "GDP":"20,725",
+    "Notes":""
+  },
+  {
+    "Country":"GA",
+    "Ranking":108,
+    "Country name":"Gabon",
+    "GDP":"19,344",
+    "Notes":""
+  },
+  {
+    "Country":"NP",
+    "Ranking":109,
+    "Country name":"Nepal",
+    "GDP":"19,294",
+    "Notes":""
+  },
+  {
+    "Country":"HN",
+    "Ranking":110,
+    "Country name":"Honduras",
+    "GDP":"18,550",
+    "Notes":""
+  },
+  {
+    "Country":"BA",
+    "Ranking":111,
+    "Country name":"Bosnia and Herzegovina",
+    "GDP":"17,828",
+    "Notes":""
+  },
+  {
+    "Country":"GE",
+    "Ranking":112,
+    "Country name":"Georgia",
+    "GDP":"16,127",
+    "Notes":"e"
+  },
+  {
+    "Country":"BN",
+    "Ranking":113,
+    "Country name":"Brunei Darussalam",
+    "GDP":"16,111",
+    "Notes":""
+  },
+  {
+    "Country":"GQ",
+    "Ranking":114,
+    "Country name":"Equatorial Guinea",
+    "GDP":"15,574",
+    "Notes":""
+  },
+  {
+    "Country":"MZ",
+    "Ranking":115,
+    "Country name":"Mozambique",
+    "GDP":"15,319",
+    "Notes":""
+  },
+  {
+    "Country":"PG",
+    "Ranking":116,
+    "Country name":"Papua New Guinea",
+    "GDP":"15,289",
+    "Notes":""
+  },
+  {
+    "Country":"KH",
+    "Ranking":117,
+    "Country name":"Cambodia",
+    "GDP":"15,250",
+    "Notes":""
+  },
+  {
+    "Country":"SN",
+    "Ranking":118,
+    "Country name":"Senegal",
+    "GDP":"15,150",
+    "Notes":""
+  },
+  {
+    "Country":"BW",
+    "Ranking":119,
+    "Country name":"Botswana",
+    "GDP":"14,788",
+    "Notes":""
+  },
+  {
+    "Country":"IS",
+    "Ranking":120,
+    "Country name":"Iceland",
+    "GDP":"14,620",
+    "Notes":""
+  },
+  {
+    "Country":"JM",
+    "Ranking":121,
+    "Country name":"Jamaica",
+    "GDP":"14,362",
+    "Notes":""
+  },
+  {
+    "Country":"CD",
+    "Ranking":122,
+    "Country name":"Congo",
+    "GDP":"14,108",
+    "Notes":""
+  },
+  {
+    "Country":"SS",
+    "Ranking":123,
+    "Country name":"South Sudan",
+    "GDP":"13,797",
+    "Notes":""
+  },
+  {
+    "Country":"TD",
+    "Ranking":124,
+    "Country name":"Chad",
+    "GDP":"13,414",
+    "Notes":""
+  },
+  {
+    "Country":"AL",
+    "Ranking":125,
+    "Country name":"Albania",
+    "GDP":"12,904",
+    "Notes":""
+  },
+  {
+    "Country":"ZW",
+    "Ranking":126,
+    "Country name":"Zimbabwe",
+    "GDP":"12,802",
+    "Notes":""
+  },
+  {
+    "Country":"NA",
+    "Ranking":127,
+    "Country name":"Namibia",
+    "GDP":"12,580",
+    "Notes":""
+  },
+  {
+    "Country":"MU",
+    "Ranking":128,
+    "Country name":"Mauritius",
+    "GDP":"11,938",
+    "Notes":""
+  },
+  {
+    "Country":"BF",
+    "Ranking":129,
+    "Country name":"Burkina Faso",
+    "GDP":"11,583",
+    "Notes":""
+  },
+  {
+    "Country":"MN",
+    "Ranking":130,
+    "Country name":"Mongolia",
+    "GDP":"11,516",
+    "Notes":""
+  },
+  {
+    "Country":"NI",
+    "Ranking":131,
+    "Country name":"Nicaragua",
+    "GDP":"11,256",
+    "Notes":""
+  },
+  {
+    "Country":"LAO",
+    "Ranking":132,
+    "Country name":"Lao People's Democratic Republic",
+    "GDP":"11,141",
+    "Notes":""
+  },
+  {
+    "Country":"ML",
+    "Ranking":133,
+    "Country name":"Mali",
+    "GDP":"10,943",
+    "Notes":""
+  },
+  {
+    "Country":"MG",
+    "Ranking":134,
+    "Country name":"Madagascar",
+    "GDP":"10,797",
+    "Notes":""
+  },
+  {
+    "Country":"AM",
+    "Ranking":135,
+    "Country name":"Armenia",
+    "GDP":"10,432",
+    "Notes":""
+  },
+  {
+    "Country":"MD",
+    "Ranking":136,
+    "Country name":"Macedonia, the former Yugoslav Republic of",
+    "GDP":"10,221",
+    "Notes":""
+  },
+  {
+    "Country":"MT",
+    "Ranking":137,
+    "Country name":"Malta",
+    "GDP":"8,741",
+    "Notes":""
+  },
+  {
+    "Country":"TJ",
+    "Ranking":138,
+    "Country name":"Tajikistan",
+    "GDP":"8,508",
+    "Notes":""
+  },
+  {
+    "Country":"HT",
+    "Ranking":139,
+    "Country name":"Haiti",
+    "GDP":"8,459",
+    "Notes":""
+  },
+  {
+    "Country":"BJ",
+    "Ranking":140,
+    "Country name":"Benin",
+    "GDP":"8,307",
+    "Notes":""
+  },
+  {
+    "Country":"BS",
+    "Ranking":141,
+    "Country name":"Bahamas",
+    "GDP":"8,149",
+    "Notes":""
+  },
+  {
+    "Country":"MD",
+    "Ranking":142,
+    "Country name":"Moldova",
+    "GDP":"7,935",
+    "Notes":"f"
+  },
+  {
+    "Country":"RW",
+    "Ranking":143,
+    "Country name":"Rwanda",
+    "GDP":"7,452",
+    "Notes":""
+  },
+  {
+    "Country":"NE",
+    "Ranking":144,
+    "Country name":"Niger",
+    "GDP":"7,356",
+    "Notes":""
+  },
+  {
+    "Country":"KGZ",
+    "Ranking":145,
+    "Country name":"Kyrgyz Republic",
+    "GDP":"7,226",
+    "Notes":""
+  },
+  {
+    "Country":"KO",
+    "Ranking":146,
+    "Country name":"Kosovo",
+    "GDP":"6,960",
+    "Notes":""
+  },
+  {
+    "Country":"GN",
+    "Ranking":147,
+    "Country name":"Guinea",
+    "GDP":"6,193",
+    "Notes":""
+  },
+  {
+    "Country":"MC",
+    "Ranking":148,
+    "Country name":"Monaco",
+    "GDP":"6,075",
+    "Notes":""
+  },
+  {
+    "Country":"BM",
+    "Ranking":149,
+    "Country name":"Bermuda",
+    "GDP":"5,474",
+    "Notes":""
+  },
+  {
+    "Country":"SR",
+    "Ranking":150,
+    "Country name":"Suriname",
+    "GDP":"5,231",
+    "Notes":""
+  },
+  {
+    "Country":"SL",
+    "Ranking":151,
+    "Country name":"Sierra Leone",
+    "GDP":"4,929",
+    "Notes":""
+  },
+  {
+    "Country":"ME",
+    "Ranking":152,
+    "Country name":"Montenegro",
+    "GDP":"4,428",
+    "Notes":""
+  },
+  {
+    "Country":"TG",
+    "Ranking":153,
+    "Country name":"Togo",
+    "GDP":"4,339",
+    "Notes":""
+  },
+  {
+    "Country":"BB",
+    "Ranking":154,
+    "Country name":"Barbados",
+    "GDP":"4,225",
+    "Notes":""
+  },
+  {
+    "Country":"MR",
+    "Ranking":155,
+    "Country name":"Mauritania",
+    "GDP":"4,163",
+    "Notes":""
+  },
+  {
+    "Country":"FJ",
+    "Ranking":156,
+    "Country name":"Fiji",
+    "GDP":"4,028",
+    "Notes":""
+  },
+  {
+    "Country":"SZ",
+    "Ranking":157,
+    "Country name":"Swaziland",
+    "GDP":"3,791",
+    "Notes":""
+  },
+  {
+    "Country":"MW",
+    "Ranking":158,
+    "Country name":"Malawi",
+    "GDP":"3,705",
+    "Notes":""
+  },
+  {
+    "Country":"ER",
+    "Ranking":159,
+    "Country name":"Eritrea",
+    "GDP":"3,444",
+    "Notes":""
+  },
+  {
+    "Country":"GY",
+    "Ranking":160,
+    "Country name":"Guyana",
+    "GDP":"3,076",
+    "Notes":""
+  },
+  {
+    "Country":"BI",
+    "Ranking":161,
+    "Country name":"Burundi",
+    "GDP":"2,718",
+    "Notes":""
+  },
+  {
+    "Country":"AW",
+    "Ranking":162,
+    "Country name":"Aruba",
+    "GDP":"2,584",
+    "Notes":""
+  },
+  {
+    "Country":"MV",
+    "Ranking":163,
+    "Country name":"Maldives",
+    "GDP":"2,300",
+    "Notes":""
+  },
+  {
+    "Country":"LS",
+    "Ranking":164,
+    "Country name":"Lesotho",
+    "GDP":"2,230",
+    "Notes":""
+  },
+  {
+    "Country":"LR",
+    "Ranking":165,
+    "Country name":"Liberia",
+    "GDP":"1,951",
+    "Notes":""
+  },
+  {
+    "Country":"CV",
+    "Ranking":166,
+    "Country name":"Cape Verde",
+    "GDP":"1,888",
+    "Notes":""
+  },
+  {
+    "Country":"BT",
+    "Ranking":167,
+    "Country name":"Bhutan",
+    "GDP":"1,884",
+    "Notes":""
+  },
+  {
+    "Country":"TL",
+    "Ranking":168,
+    "Country name":"Timor-Leste",
+    "GDP":"1,615",
+    "Notes":""
+  },
+  {
+    "Country":"BZ",
+    "Ranking":169,
+    "Country name":"Belize",
+    "GDP":"1,605",
+    "Notes":""
+  },
+  {
+    "Country":"CF",
+    "Ranking":170,
+    "Country name":"Central African Republic",
+    "GDP":"1,538",
+    "Notes":""
+  },
+  {
+    "Country":"DJ",
+    "Ranking":171,
+    "Country name":"Djibouti",
+    "GDP":"1,456",
+    "Notes":""
+  },
+  {
+    "Country":"LC",
+    "Ranking":172,
+    "Country name":"Saint Lucia",
+    "GDP":"1,332",
+    "Notes":""
+  },
+  {
+    "Country":"SC",
+    "Ranking":173,
+    "Country name":"Seychelles",
+    "GDP":"1,268",
+    "Notes":""
+  },
+  {
+    "Country":"AG",
+    "Ranking":174,
+    "Country name":"Antigua and Barbuda",
+    "GDP":"1,230",
+    "Notes":""
+  },
+  {
+    "Country":"SB",
+    "Ranking":175,
+    "Country name":"Solomon Islands",
+    "GDP":"1,096",
+    "Notes":""
+  },
+  {
+    "Country":"GMB",
+    "Ranking":176,
+    "Country name":"Gambia",
+    "GDP":"914",
+    "Notes":""
+  },
+  {
+    "Country":"GW",
+    "Ranking":177,
+    "Country name":"Guinea-Bissau",
+    "GDP":"859",
+    "Notes":""
+  },
+  {
+    "Country":"VU",
+    "Ranking":178,
+    "Country name":"Vanuatu",
+    "GDP":"835",
+    "Notes":""
+  },
+  {
+    "Country":"GD",
+    "Ranking":179,
+    "Country name":"Grenada",
+    "GDP":"834",
+    "Notes":""
+  },
+  {
+    "Country":"KN",
+    "Ranking":180,
+    "Country name":"Saint Kitts and Nevis",
+    "GDP":"743",
+    "Notes":""
+  },
+  {
+    "Country":"VC",
+    "Ranking":181,
+    "Country name":"Saint Vincent and the Grenadines",
+    "GDP":"726",
+    "Notes":""
+  },
+  {
+    "Country":"WS",
+    "Ranking":182,
+    "Country name":"Samoa",
+    "GDP":"694",
+    "Notes":""
+  },
+  {
+    "Country":"KM",
+    "Ranking":183,
+    "Country name":"Comoros",
+    "GDP":"657",
+    "Notes":""
+  },
+  {
+    "Country":"DM",
+    "Ranking":184,
+    "Country name":"Dominica",
+    "GDP":"505",
+    "Notes":""
+  },
+  {
+    "Country":"TO",
+    "Ranking":185,
+    "Country name":"Tonga",
+    "GDP":"466",
+    "Notes":""
+  },
+  {
+    "Country":"FM",
+    "Ranking":186,
+    "Country name":"Micronesia, Federated States of",
+    "GDP":"335",
+    "Notes":""
+  },
+  {
+    "Country":"ST",
+    "Ranking":187,
+    "Country name":"Sao Tome and Principe",
+    "GDP":"311",
+    "Notes":""
+  },
+  {
+    "Country":"PW",
+    "Ranking":188,
+    "Country name":"Palau",
+    "GDP":"247",
+    "Notes":""
+  },
+  {
+    "Country":"MH",
+    "Ranking":189,
+    "Country name":"Marshall Islands",
+    "GDP":"175",
+    "Notes":""
+  },
+  {
+    "Country":"KI",
+    "Ranking":190,
+    "Country name":"Kiribati",
+    "GDP":"169",
+    "Notes":""
+  },
+  {
+    "Country":"TUV",
+    "Ranking":191,
+    "Country name":"Tuvalu",
+    "GDP":"38",
+    "Notes":""
+  },
+  {
+    "Country":"AS",
+    "Ranking":null,
+    "Country name":"American Samoa",
+    "GDP":"na",
+    "Notes":""
+  },
+  {
+    "Country":"AD",
+    "Ranking":null,
+    "Country name":"Andorra",
+    "GDP":"na",
+    "Notes":""
+  },
+  {
+    "Country":"KY",
+    "Ranking":null,
+    "Country name":"Cayman Islands",
+    "GDP":"na",
+    "Notes":""
+  },
+  {
+    "Country":"CHI",
+    "Ranking":null,
+    "Country name":"Channel Islands",
+    "GDP":"na",
+    "Notes":""
+  },
+  {
+    "Country":"CUW",
+    "Ranking":null,
+    "Country name":"Curaçao",
+    "GDP":"na",
+    "Notes":""
+  },
+  {
+    "Country":"FRO",
+    "Ranking":null,
+    "Country name":"Faeroe Islands",
+    "GDP":"na",
+    "Notes":""
+  },
+  {
+    "Country":"PF",
+    "Ranking":null,
+    "Country name":"French Polynesia",
+    "GDP":"na",
+    "Notes":""
+  },
+  {
+    "Country":"GL",
+    "Ranking":null,
+    "Country name":"Greenland",
+    "GDP":"na",
+    "Notes":""
+  },
+  {
+    "Country":"GU",
+    "Ranking":null,
+    "Country name":"Guam",
+    "GDP":"na",
+    "Notes":""
+  },
+  {
+    "Country":"IM",
+    "Ranking":null,
+    "Country name":"Isle of Man",
+    "GDP":"na",
+    "Notes":""
+  },
+  {
+    "Country":"KP",
+    "Ranking":null,
+    "Country name":"Korea, Democratic People's Republic of",
+    "GDP":"na",
+    "Notes":""
+  },
+  {
+    "Country":"LI",
+    "Ranking":null,
+    "Country name":"Liechtenstein",
+    "GDP":"na",
+    "Notes":""
+  },
+  {
+    "Country":"MM",
+    "Ranking":null,
+    "Country name":"Myanmar",
+    "GDP":"na",
+    "Notes":""
+  },
+  {
+    "Country":"NC",
+    "Ranking":null,
+    "Country name":"New Caledonia",
+    "GDP":"na",
+    "Notes":""
+  },
+  {
+    "Country":"MP",
+    "Ranking":null,
+    "Country name":"Northern Mariana Islands",
+    "GDP":"na",
+    "Notes":""
+  },
+  {
+    "Country":"SM",
+    "Ranking":null,
+    "Country name":"San Marino",
+    "GDP":"na",
+    "Notes":""
+  },
+  {
+    "Country":"SX",
+    "Ranking":null,
+    "Country name":"Sint Maarten (Dutch part)",
+    "GDP":"na",
+    "Notes":""
+  },
+  {
+    "Country":"SO",
+    "Ranking":null,
+    "Country name":"Somalia",
+    "GDP":"na",
+    "Notes":""
+  },
+  {
+    "Country":"MF",
+    "Ranking":null,
+    "Country name":"Saint Martin (French part)",
+    "GDP":"na",
+    "Notes":""
+  },
+  {
+    "Country":"SYR",
+    "Ranking":null,
+    "Country name":"Syria",
+    "GDP":"na",
+    "Notes":""
+  },
+  {
+    "Country":"SY",
+    "Ranking":null,
+    "Country name":"Turks and Caicos Islands",
+    "GDP":"na",
+    "Notes":""
+  },
+  {
+    "Country":"VI",
+    "Ranking":null,
+    "Country name":"Virgin Islands, U.S.",
+    "GDP":"na",
+    "Notes":""
+  },
+  {
+    "Country":"WBG",
+    "Ranking":null,
+    "Country name":"West Bank and Gaza",
+    "GDP":"na",
+    "Notes":""
+  },
+  {
+    "Country":"WLD",
+    "Ranking":null,
+    "Country name":"World",
+    "GDP":"74,899,882",
+    "Notes":""
+  },
+  {
+    "Country":"LIC",
+    "Ranking":null,
+    "Country name":"Low income",
+    "GDP":"574,456",
+    "Notes":""
+  },
+  {
+    "Country":"MIC",
+    "Ranking":null,
+    "Country name":"Middle income",
+    "GDP":"23,900,063",
+    "Notes":""
+  },
+  {
+    "Country":"LMC",
+    "Ranking":null,
+    "Country name":"  Lower middle income",
+    "GDP":"5,235,720",
+    "Notes":""
+  },
+  {
+    "Country":"UMC",
+    "Ranking":null,
+    "Country name":"  Upper middle income",
+    "GDP":"18,660,668",
+    "Notes":""
+  },
+  {
+    "Country":"LMY",
+    "Ranking":null,
+    "Country name":"Low & middle income",
+    "GDP":"24,487,857",
+    "Notes":""
+  },
+  {
+    "Country":"EAP",
+    "Ranking":null,
+    "Country name":"  East Asia & Pacific",
+    "GDP":"11,413,001",
+    "Notes":""
+  },
+  {
+    "Country":"ECA",
+    "Ranking":null,
+    "Country name":"  Europe & Central Asia",
+    "GDP":"1,986,214",
+    "Notes":""
+  },
+  {
+    "Country":"LAC",
+    "Ranking":null,
+    "Country name":"  Latin America & Caribbean",
+    "GDP":"5,654,890",
+    "Notes":""
+  },
+  {
+    "Country":"MNA",
+    "Ranking":null,
+    "Country name":"  Middle East & North Africa",
+    "GDP":"1,489,944",
+    "Notes":""
+  },
+  {
+    "Country":"SAS",
+    "Ranking":null,
+    "Country name":"  South Asia",
+    "GDP":"2,354,663",
+    "Notes":""
+  },
+  {
+    "Country":"SSA",
+    "Ranking":null,
+    "Country name":"  Sub-Saharan Africa",
+    "GDP":"1,592,241",
+    "Notes":""
+  },
+  {
+    "Country":"HIC",
+    "Ranking":null,
+    "Country name":"High income",
+    "GDP":"50,447,020",
+    "Notes":""
+  },
+  {
+    "Country":"EMU",
+    "Ranking":null,
+    "Country name":"  Euro area",
+    "GDP":"12,749,928",
+    "Notes":""
+  }
+]
